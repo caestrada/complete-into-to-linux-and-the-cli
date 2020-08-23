@@ -16,3 +16,15 @@ Course Website - [LINK](https://btholt.github.io/complete-intro-to-linux-and-the
 ## Installing Multipass on macOS
 
 Here is the [link](https://multipass.run/docs/installing-on-macos) to the multipass documentation.
+
+**Note**
+```bash
+# To create a virtual instance.
+$ multipass launch
+
+# To see available instances.
+$ multipass list
+
+# To run the shell instance.
+$ multipass shell <instance_name>
+```
