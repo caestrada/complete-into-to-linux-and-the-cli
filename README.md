@@ -12,3 +12,7 @@ Course Website - [LINK](https://btholt.github.io/complete-intro-to-linux-and-the
 - [ ] [Shell Scripts]()
 - [ ] [Automation & Customization]()
 - [ ] [Wrapping Up]()
+
+## Installing Multipass on macOS
+
+Here is the [link](https://multipass.run/docs/installing-on-macos) to the multipass documentation.
