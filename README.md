@@ -4,7 +4,7 @@ Course Website - [LINK](https://btholt.github.io/complete-intro-to-linux-and-the
 
 - [X] [Introduction](https://frontendmasters.com/courses/linux-command-line/introduction/)
 - [X] [The CLI]()
-- [ ] [Editors]()
+- [X] [Editors]()
 - [ ] [Files, Pipes, & Permissions]()
 - [ ] [Environments & Processes]()
 - [ ] [Networking & the Internet]()
