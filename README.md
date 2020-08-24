@@ -9,7 +9,7 @@ Course Website - [LINK](https://btholt.github.io/complete-intro-to-linux-and-the
 - [X] [Environments & Processes]()
 - [X] [Networking & the Internet]()
 - [X] [Package Management]()
-- [ ] [Shell Scripts]()
+- [X] [Shell Scripts]()
 - [ ] [Automation & Customization]()
 - [ ] [Wrapping Up]()
 
