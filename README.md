@@ -10,8 +10,8 @@ Course Website - [LINK](https://btholt.github.io/complete-intro-to-linux-and-the
 - [X] [Networking & the Internet]()
 - [X] [Package Management]()
 - [X] [Shell Scripts]()
-- [ ] [Automation & Customization]()
-- [ ] [Wrapping Up]()
+- [X] [Automation & Customization]()
+- [X] [Wrapping Up]()
 
 ## Installing Multipass on macOS
 
