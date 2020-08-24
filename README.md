@@ -5,7 +5,7 @@ Course Website - [LINK](https://btholt.github.io/complete-intro-to-linux-and-the
 - [X] [Introduction](https://frontendmasters.com/courses/linux-command-line/introduction/)
 - [X] [The CLI]()
 - [X] [Editors]()
-- [ ] [Files, Pipes, & Permissions]()
+- [X] [Files, Pipes, & Permissions]()
 - [ ] [Environments & Processes]()
 - [ ] [Networking & the Internet]()
 - [ ] [Package Management]()
@@ -17,7 +17,15 @@ Course Website - [LINK](https://btholt.github.io/complete-intro-to-linux-and-the
 
 Here is the [link](https://multipass.run/docs/installing-on-macos) to the multipass documentation.
 
-**Notes**
+## Notes
+
+### Users
+```bash
+# Will show the name of all users in the OS
+$ cat /etc/passwd
+```
+
+### Running Multipass
 
 To run in the `Termial`
 ```bash
