@@ -1,4 +1,4 @@
-# Complete Intro to Linux and the Command-Line
+# [Complete Intro to the Linux and the CLI](https://frontendmasters.com/courses/linux-command-line/)
 
 Course Website - [LINK](https://btholt.github.io/complete-intro-to-linux-and-the-cli/)
 
