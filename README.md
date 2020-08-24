@@ -6,7 +6,7 @@ Course Website - [LINK](https://btholt.github.io/complete-intro-to-linux-and-the
 - [X] [The CLI]()
 - [X] [Editors]()
 - [X] [Files, Pipes, & Permissions]()
-- [ ] [Environments & Processes]()
+- [X] [Environments & Processes]()
 - [ ] [Networking & the Internet]()
 - [ ] [Package Management]()
 - [ ] [Shell Scripts]()
